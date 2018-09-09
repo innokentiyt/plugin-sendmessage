@@ -1,7 +1,7 @@
 Sendmessage
 ===========
 
-A very simple Kanboard plugin for sending one-way messages for individual users. New messages appear on Boards after the header. Can be used for sending warning or notice messages. Based on fguillot's Broadcast plugin.
+A very simple Kanboard plugin for sending one-way messages for individual users. New messages appear on Boards below the search bar. Can be used for sending warning or notice messages. Based on fguillot's Broadcast plugin.
 
 Requirements
 ------------
